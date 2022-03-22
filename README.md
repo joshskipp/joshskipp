@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, it's Skipp 👋
+
+I am student of computer science, with a background in technical production for live events. 
 
 <!--
 **joshskipp/joshskipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
